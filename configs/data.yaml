@@ -1,4 +1,4 @@
-path: ../datasets/BDD100K
+path: /home/rohan/Desktop/Low-Visibility-Object-Detection/datasets/BDD100K
 
 train: train
 val: val
