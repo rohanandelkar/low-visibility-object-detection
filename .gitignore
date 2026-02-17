@@ -1,0 +1,23 @@
+# Dataset
+datasets/
+*.zip
+*.tar
+
+# Training outputs
+runs/
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
