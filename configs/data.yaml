@@ -1,4 +1,4 @@
-path: /home/rohan/Desktop/Low-Visibility-Object-Detection/datasets/BDD100K
+path: ../datasets/BDD100K
 
 train: train
 val: val
@@ -9,4 +9,3 @@ names:
   2: truck
   3: bus
   4: bike
-

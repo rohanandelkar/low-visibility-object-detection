@@ -1,13 +1,11 @@
 # Dataset
 datasets/
-*.zip
-*.tar
 
 # Training outputs
 runs/
 *.pt
 
-# Python
+# Python cache
 __pycache__/
 *.pyc
 
@@ -18,6 +16,4 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# VSCode
-.vscode/
-
+.venv/
